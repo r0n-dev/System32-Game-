@@ -14,5 +14,3 @@ Das Betriebssystem unbrauchbar machen, indem sie kritische Systemdateien löscht
 
 Verwende diesen Code ausschließlich zu Lernzwecken und nicht in einer realen Umgebung.
 Die Ausführung dieses Codes kann zu irreparablen Schäden an deinem System führen.
-Sicherheitshinweis: Lösche niemals wichtige Systemdateien oder Verzeichnisse, da dies zu Datenverlust und Funktionsstörungen führen kann.
-Verantwortungsvoll programmieren! Wenn du mit so etwas
