@@ -1,16 +1,12 @@
 # System32-Game
 
-⚠️ WICHTIGE SICHERHEITSWARNUNG ⚠️
+System32-Game
+⚠️ IMPORTANT SECURITY WARNING ⚠️
 
-Ausführung auf eigene Gefahr!
+Execution at your own risk!
 
-Dieser Code enthält eine extrem gefährliche Zeile, die Systemdateien löschen könnte, wenn sie ausgeführt wird. Insbesondere würde die Zeile:
+This code contains an extremely dangerous line that could delete system files if it is executed. Specifically, the line:
 
-python
-Kopieren
-Bearbeiten
-os.remove("C\\Windows\\System32")
-Das Betriebssystem unbrauchbar machen, indem sie kritische Systemdateien löscht. Führe diesen Code niemals auf einem echten oder produktiven System aus!
+python Copy Edit os.remove("C:WindowsSystem32") Make the operating system unusable by deleting critical system files. Never run this code on a real or productive system!
 
-Verwende diesen Code ausschließlich zu Lernzwecken und nicht in einer realen Umgebung.
-Die Ausführung dieses Codes kann zu irreparablen Schäden an deinem System führen.
+Use this code for learning purposes only and not in a real-world environment. Executing this code can cause irreparable damage to your system.
