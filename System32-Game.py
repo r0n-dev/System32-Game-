@@ -1,4 +1,5 @@
 import random
+import os 
 
 number = random.randint(1, 10)
 
