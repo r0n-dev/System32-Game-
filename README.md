@@ -1,6 +1,5 @@
 # System32-Game
 
-System32-Game
 ⚠️ IMPORTANT SECURITY WARNING ⚠️
 
 Execution at your own risk!
